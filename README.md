@@ -10,7 +10,6 @@ Made to sit behind apps, games, menus, streams and desktops. Free for anything, 
 
 [![License: CC0 1.0](https://img.shields.io/badge/license-CC0_1.0-2ea44f?style=flat-square)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/Lampe332/flowing-light-backgrounds?style=flat-square&color=7c5cff)](https://github.com/Lampe332/flowing-light-backgrounds/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Lampe332/flowing-light-backgrounds/total?style=flat-square&color=d9a35e)](https://github.com/Lampe332/flowing-light-backgrounds/releases/latest)
 ![4K 3840x2160](https://img.shields.io/badge/4K-3840×2160-0a1431?style=flat-square)
 ![Phone 2160x3840](https://img.shields.io/badge/phone-2160×3840-0a1431?style=flat-square)
 ![Loop](https://img.shields.io/badge/loop-20_s_·_25_fps_·_seamless-0a1431?style=flat-square)
@@ -34,7 +33,7 @@ cropped from the landscape ones.
 <td width="240" align="center">
 <img src=".github/assets/cosmic-violet-phone.webp" width="220" alt="Cosmic Violet – phone version, animated">
 </td>
-<td>
+<td width="600">
 
 ### Cosmic Violet <sub>· dark</sub>
 
@@ -50,7 +49,7 @@ Calm and dark enough for text and icons on top – use **white** text.
 </td>
 </tr>
 <tr>
-<td>
+<td width="600">
 
 ### Marble Gold <sub>· light</sub>
 
@@ -79,10 +78,10 @@ contains all of them.
 
 | | Size | Cosmic Violet | Marble Gold |
 |---|---|---|---|
-| 🎞️ **Live loop 4K** | 3840×2160 | [`Cosmic_Violet_Live_4K.mp4`](Cosmic_Violet_Live_4K.mp4) · 17.3 MB | [`Marble_Gold_Live_4K.mp4`](Marble_Gold_Live_4K.mp4) · 19.7 MB |
-| 🎞️ **Live loop phone** | 2160×3840 | [`Cosmic_Violet_Live_Phone.mp4`](Cosmic_Violet_Live_Phone.mp4) · 19.3 MB | [`Marble_Gold_Live_Phone.mp4`](Marble_Gold_Live_Phone.mp4) · 23.1 MB |
-| 🖼️ **Still 4K** | 3840×2160 | [`.png`](Cosmic_Violet_4K.png) 7.3 MB · [`.jpg`](Cosmic_Violet_4K.jpg) 1.3 MB | [`.png`](Marble_Gold_4K.png) 6.6 MB · [`.jpg`](Marble_Gold_4K.jpg) 1.2 MB |
-| 🖼️ **Still phone** | 2160×3840 | [`.png`](Cosmic_Violet_Phone.png) 8.8 MB · [`.jpg`](Cosmic_Violet_Phone.jpg) 1.6 MB | [`.png`](Marble_Gold_Phone.png) 9.2 MB · [`.jpg`](Marble_Gold_Phone.jpg) 2.2 MB |
+| 🎞️ **Live loop 4K** | 3840×2160 | [`Cosmic_Violet_Live_4K.mp4`](Cosmic_Violet_Live_4K.mp4) · 17.3&nbsp;MB | [`Marble_Gold_Live_4K.mp4`](Marble_Gold_Live_4K.mp4) · 19.7&nbsp;MB |
+| 🎞️ **Live loop phone** | 2160×3840 | [`Cosmic_Violet_Live_Phone.mp4`](Cosmic_Violet_Live_Phone.mp4) · 19.3&nbsp;MB | [`Marble_Gold_Live_Phone.mp4`](Marble_Gold_Live_Phone.mp4) · 23.1&nbsp;MB |
+| 🖼️ **Still 4K** | 3840×2160 | [`.png`](Cosmic_Violet_4K.png) 7.3&nbsp;MB · [`.jpg`](Cosmic_Violet_4K.jpg) 1.3&nbsp;MB | [`.png`](Marble_Gold_4K.png) 6.6&nbsp;MB · [`.jpg`](Marble_Gold_4K.jpg) 1.2&nbsp;MB |
+| 🖼️ **Still phone** | 2160×3840 | [`.png`](Cosmic_Violet_Phone.png) 8.8&nbsp;MB · [`.jpg`](Cosmic_Violet_Phone.jpg) 1.6&nbsp;MB | [`.png`](Marble_Gold_Phone.png) 9.2&nbsp;MB · [`.jpg`](Marble_Gold_Phone.jpg) 2.2&nbsp;MB |
 
 **Video specs:** H.264 (High), yuv420p, BT.709, 25 fps, 20 s (500 frames), no audio track.
 **Seamless:** the last frame flows straight into the first – set the player to loop and there is no visible cut.
